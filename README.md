@@ -1,4 +1,4 @@
-# sistemKRSdanPenilaianMahasiswa
+# sistem KRS dan Penilaian Mahasiswa
 
 Informasi <br/>
 <ol>
